@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f9d52c4417d84f158f40d6a5e191a633/artifacts
+end_time: 1781292376482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9d52c4417d84f158f40d6a5e191a633
+run_name: auspicious-mink-668
+run_uuid: f9d52c4417d84f158f40d6a5e191a633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781292376109
+status: 4
+tags: []
+user_id: BHANU PRASAD

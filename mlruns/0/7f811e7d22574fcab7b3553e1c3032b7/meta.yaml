@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7f811e7d22574fcab7b3553e1c3032b7/artifacts
+end_time: 1781293250893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f811e7d22574fcab7b3553e1c3032b7
+run_name: indecisive-ray-280
+run_uuid: 7f811e7d22574fcab7b3553e1c3032b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781293250535
+status: 4
+tags: []
+user_id: HARSHITHA NAIDU
